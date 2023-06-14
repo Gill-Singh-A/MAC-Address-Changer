@@ -13,6 +13,11 @@ Modules/Packages used:
 * time
 * subprocess
 * colorama
+<!-- -->
+Install the dependencies:
+```bash
+pip install -r requirements.txt
+```
 
 ## Input
 The mac_address_changer.py takes the following arguments through the command that is used to run the Python Program:
